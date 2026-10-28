@@ -1,0 +1,464 @@
+{
+  "profile": {
+    "name": "Vinayak Anil Pillai",
+    "handle": "vinayak",
+    "title": "Software Engineer · Python & Full-stack",
+    "location": "Thiruvalla, Kerala, India",
+    "email": "vinayakanil17@gmail.com",
+    "github": "https://github.com/Vicky200117",
+    "summary": "Results-oriented Python developer with a strong foundation in building scalable, secure systems and IoT solutions. Proven track record in developing robust backend architectures, optimizing code for performance, and delivering high-quality technical documentation. Expert in Python, SQL, and modern software design patterns, with a collaborative approach to cross-functional team projects and remote development environments.",
+    "focus": [
+      "Python",
+      "Full-stack",
+      "Backend",
+      "Embedded / IoT",
+      "ML"
+    ],
+    "availability": "Open to remote tech roles & contract work",
+    "linkedin": "https://www.linkedin.com/in/vinayakanil172001"
+  },
+  "hero": {
+    "build": "production software, from backends to dashboards to devices,",
+    "achieves": "holds up under real load, and I know exactly where code breaks",
+    "sub": "Software engineer at Amrita. I ship Python and .NET backends, real-time React dashboards and embedded systems, and I spend my days hunting the edge cases and failure modes that only show up in production. Open to software engineering, code review, problem authoring and AI model evaluation work."
+  },
+  "fit": {
+    "title": "What I bring to a team",
+    "items": [
+      {
+        "need": "Shipped production software",
+        "proof": "Built and run a full-stack platform (React, C#/.NET 8, Python) handling 12,000+ real device certificates across on-prem and cloud."
+      },
+      {
+        "need": "Finds code that passes review but fails in production",
+        "proof": "Wrote custom test suites and a validation pipeline that catches anomalies with zero false positives."
+      },
+      {
+        "need": "Explains reasoning clearly in writing",
+        "proof": "Writes the technical documentation for the systems I ship; has run training sessions on Python and electronics."
+      },
+      {
+        "need": "Handles ambiguous, open-ended problems",
+        "proof": "Took a hybrid on-prem + cloud system from minutes-stale data to <5s, and shipped TinyML models onto low-power microcontrollers."
+      }
+    ],
+    "specialties": [
+      "Backend",
+      "Full-stack",
+      "Python",
+      "Embedded / IoT",
+      "QA / automation",
+      "Security",
+      "ML"
+    ]
+  },
+  "featured": {
+    "name": "IoT Device Lifecycle & PKI Platform",
+    "org": "Amrita Cybersecurity Department",
+    "year": "2025",
+    "summary": "Full-stack platform managing the complete lifecycle of IoT device identities: automated X.509 rotation, revocation and chain validation, with a real-time React dashboard spanning on-prem and Azure IoT Hub.",
+    "outcomes": [
+      "12,000+ real X.509 certificates processed",
+      "Data staleness cut from minutes to <5s",
+      "Zero false positives in chain validation"
+    ],
+    "stack": [
+      "React",
+      "C# / .NET 8",
+      "Python",
+      "MQTT",
+      "mTLS",
+      "Azure IoT Hub"
+    ]
+  },
+  "coreStack": [
+    {
+      "group": "Languages",
+      "items": [
+        "Python",
+        "C#",
+        "C / C++",
+        "Java",
+        "SQL",
+        "Embedded C"
+      ]
+    },
+    {
+      "group": "Backend",
+      "items": [
+        ".NET 8",
+        "Flask",
+        "Django",
+        "Express.js",
+        "Spring Boot",
+        "gRPC",
+        "REST"
+      ]
+    },
+    {
+      "group": "Frontend",
+      "items": [
+        "React",
+        "Angular",
+        "JavaScript",
+        "Tailwind CSS",
+        "HTML / CSS",
+        "ASP.NET"
+      ]
+    },
+    {
+      "group": "Testing & Review",
+      "items": [
+        "PyTest",
+        "Unittest",
+        "NUnit",
+        "Selenium",
+        "Cypress",
+        "PKI test suites",
+        "Code review"
+      ]
+    },
+    {
+      "group": "Infra",
+      "items": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "AWS",
+        "Azure"
+      ]
+    },
+    {
+      "group": "ML",
+      "items": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "TinyML",
+        "Spark",
+        "Kafka"
+      ]
+    },
+    {
+      "group": "IoT & Security",
+      "items": [
+        "X.509 / PKI",
+        "mTLS",
+        "TLS",
+        "CRL / revocation",
+        "MQTT",
+        "Azure IoT Hub",
+        "OWASP"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "X.509 certificates managed",
+      "value": "12,000+"
+    },
+    {
+      "label": "Dashboard data latency",
+      "value": "<5s"
+    },
+    {
+      "label": "False positives in chain validation",
+      "value": "0"
+    },
+    {
+      "label": "Years at Amrita Cybersecurity",
+      "value": "2+"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer (IoT & Security)",
+      "organization": "Amrita Cybersecurity Department",
+      "start": "May 2025",
+      "end": "Present",
+      "current": true,
+      "highlights": [
+        "Engineered and automated an MQTT-based provisioning system integrating TLS security and dynamic device IDs.",
+        "Collaborated with a team to enhance IoT device integration, ensuring scalability and reliability in real-time testing.",
+        "Architected and deployed a full-stack IoT device lifecycle management platform processing 12,000+ real X.509 certificates, implementing automated certificate rotation, revocation, and chain validation with custom PKI test suites.",
+        "Built a real-time React dashboard visualizing device security posture across hybrid environments (On-Prem + Azure IoT Hub), reducing data staleness from minutes to under 5 seconds.",
+        "Developed an embedded cryptographic verification pipeline in C#/.NET 8 performing real X.509 chain validation, mTLS handshake simulation, and CRL generation, detecting security anomalies with zero false positives."
+      ],
+      "stack": [
+        "Python",
+        "MQTT",
+        "TLS",
+        "X.509",
+        "React",
+        "Azure IoT Hub",
+        "C#",
+        ".NET 8"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "organization": "Amrita Cybersecurity Department",
+      "start": "May 2024",
+      "end": "Apr 2025",
+      "current": false,
+      "highlights": [
+        "Developed and deployed TinyML models on NodeMCU for IoT applications, optimizing algorithms for low-power microcontrollers.",
+        "Designed predictive models for anomaly detection and pattern recognition, improving system efficiency."
+      ],
+      "stack": [
+        "TinyML",
+        "TensorFlow Lite",
+        "NodeMCU",
+        "Python"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blockchain-Based Medical Records & QR Medicine Validation",
+      "category": "Blockchain",
+      "description": "Secure sharing of medical records on a blockchain backend, paired with QR-based validation of medicine authenticity.",
+      "highlights": [
+        "Automated secure sharing of medical records using a blockchain-based backend.",
+        "Implemented QR-based validation to verify medicine authenticity."
+      ],
+      "tags": [
+        "Blockchain",
+        "QR",
+        "Healthcare",
+        "Integrity"
+      ]
+    },
+    {
+      "name": "Blockchain Document Verification System",
+      "category": "Blockchain",
+      "description": "A tamper-proof system for storing and verifying documents on a blockchain.",
+      "highlights": [
+        "Designed and implemented a blockchain-based system for securely storing and verifying documents.",
+        "Created a tamper-proof verification workflow for document integrity."
+      ],
+      "tags": [
+        "Blockchain",
+        "Verification",
+        "Integrity"
+      ]
+    },
+    {
+      "name": "Motion Sensor RC Car",
+      "category": "Hardware",
+      "description": "A motion-sensor-controlled RC car built from hardware design through to firmware.",
+      "highlights": [
+        "Worked on the hardware design and integration for a motion-sensor-based RC car.",
+        "Developed Arduino code to interface motion sensors and control the car's movement."
+      ],
+      "tags": [
+        "Arduino",
+        "Embedded C",
+        "Sensors"
+      ]
+    },
+    {
+      "name": "Technical Training & Awareness Session (SSR)",
+      "category": "Outreach",
+      "description": "Training sessions on electronics, Python, and staying safe online.",
+      "highlights": [
+        "Conducted sessions on electronics and Python coding.",
+        "Raised awareness about the dark side of the Internet and safe online practices."
+      ],
+      "tags": [
+        "Teaching",
+        "Python",
+        "Cyber Awareness"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "Python",
+        "C",
+        "C#",
+        "C/C++",
+        "Embedded C",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Web",
+      "items": [
+        "ASP.NET",
+        "HTML",
+        "CSS",
+        "React",
+        "Angular",
+        "Node.js"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        ".NET Core",
+        "Spring Boot",
+        "Express.js",
+        "Flask",
+        "Django"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MS SQL Server",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "MongoDB",
+        "Redis",
+        "Cassandra"
+      ]
+    },
+    {
+      "category": "APIs",
+      "items": [
+        "REST",
+        "GraphQL",
+        "SOAP",
+        "gRPC"
+      ]
+    },
+    {
+      "category": "Cloud",
+      "items": [
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform"
+      ]
+    },
+    {
+      "category": "DevOps & CI/CD",
+      "items": [
+        "Jenkins",
+        "GitHub Actions",
+        "GitLab CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Terraform"
+      ]
+    },
+    {
+      "category": "Testing",
+      "items": [
+        "JUnit",
+        "NUnit",
+        "PyTest",
+        "Unittest",
+        "Selenium",
+        "Cypress"
+      ]
+    },
+    {
+      "category": "AI / ML & Data",
+      "items": [
+        "TensorFlow",
+        "TensorFlow Lite (TinyML)",
+        "PyTorch",
+        "Scikit-learn",
+        "Hadoop",
+        "Spark",
+        "Kafka"
+      ]
+    },
+    {
+      "category": "Engineering Practice",
+      "items": [
+        "OOP",
+        "Design Patterns",
+        "Microservices",
+        "Event-driven Architecture",
+        "Agile/Scrum",
+        "SOLID",
+        "API Design",
+        "OWASP"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Paho-MQTT",
+        "SQLAlchemy",
+        "Git",
+        "PlatformIO",
+        "Jupyter",
+        "Google Colab",
+        "Postman",
+        "VS Code",
+        "PuTTY",
+        "MATLAB"
+      ]
+    },
+    {
+      "category": "Version Control",
+      "items": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech in Electronics and Computer Engineering",
+      "institution": "Amrita Vishwa Vidyapeetham, Amritapuri",
+      "year": "2023"
+    },
+    {
+      "degree": "Higher Secondary Education in Computer Science",
+      "institution": "Technical Higher Secondary School, Mallappally",
+      "year": "2019"
+    },
+    {
+      "degree": "High School Education",
+      "institution": "Kristu Jyoti Higher Secondary School, Changanassery",
+      "year": "2017"
+    }
+  ],
+  "community": [
+    {
+      "role": "Volunteer",
+      "organization": "Amrita Campus",
+      "date": "Aug 2019",
+      "description": "Clean-Up Drive: conducted cleaning activities around campus for Independence Day celebrations to spread awareness."
+    },
+    {
+      "role": "Volunteer",
+      "organization": "Amrita Campus",
+      "date": "Sep 2019",
+      "description": "Amritavarsham 66: assisted gathered attendees and helped keep the event clean."
+    }
+  ],
+  "softSkills": [
+    "Problem-Solving",
+    "Analytical Thinking",
+    "Communication",
+    "Teamwork",
+    "Adaptability",
+    "Time Management",
+    "Critical Thinking"
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Speak · Read · Write"
+    },
+    {
+      "name": "Hindi",
+      "level": "Speak · Read · Write"
+    },
+    {
+      "name": "Malayalam",
+      "level": "Speak · Read · Write"
+    }
+  ]
+}
